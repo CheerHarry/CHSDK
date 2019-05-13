@@ -1,6 +1,0 @@
-framework module CHSDK {
-  umbrella header "CHSDK.h"
-
-  export *
-  module * { export * }
-}
